@@ -1,0 +1,13 @@
+
+/* LedgerMind AI final contrast and export controls. Import this file from App.tsx. */
+.ai-review-result { color: #e5eee6 !important; background: #18231c !important; border-color: #354638 !important; }
+.ai-review-result h3, .ai-review-result dd, .ai-review-result strong { color: #edf5ee; }
+.ai-review-result p, .ai-review-result dt, .ai-review-result small { color: #a9b9ac !important; }
+.ai-review-result dl { color: #e5eee6; }
+.records-export-head { align-items: center; }
+.records-export-actions { display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-end; gap:8px; }
+.export-button { padding:9px 11px; white-space:nowrap; }
+@media(max-width:760px) { .records-export-head { align-items:flex-start; flex-direction:column; } .records-export-actions { justify-content:flex-start; width:100%; } }
+.ai-export-actions { display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-end; gap:8px; }
+.ai-export-actions .export-button { min-height:36px; }
+@media(max-width:620px) { .ai-export-actions { justify-content:flex-start; width:100%; } }

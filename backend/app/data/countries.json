@@ -1,0 +1,354 @@
+{
+  "NG": {
+    "name": "Nigeria",
+    "currency": "NGN",
+    "timezones": [
+      "Africa/Lagos"
+    ]
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "currency": "GBP",
+    "timezones": [
+      "Europe/London"
+    ]
+  },
+  "US": {
+    "name": "United States",
+    "currency": "USD",
+    "timezones": [
+      "America/New_York",
+      "America/Chicago",
+      "America/Denver",
+      "America/Los_Angeles",
+      "America/Anchorage",
+      "Pacific/Honolulu"
+    ]
+  },
+  "JP": {
+    "name": "Japan",
+    "currency": "JPY",
+    "timezones": [
+      "Asia/Tokyo"
+    ]
+  },
+  "CA": {
+    "name": "Canada",
+    "currency": "CAD",
+    "timezones": [
+      "America/St_Johns",
+      "America/Halifax",
+      "America/Toronto",
+      "America/Winnipeg",
+      "America/Edmonton",
+      "America/Vancouver"
+    ]
+  },
+  "AU": {
+    "name": "Australia",
+    "currency": "AUD",
+    "timezones": [
+      "Australia/Perth",
+      "Australia/Adelaide",
+      "Australia/Sydney",
+      "Australia/Brisbane",
+      "Australia/Darwin",
+      "Australia/Hobart"
+    ]
+  },
+  "GH": {
+    "name": "Ghana",
+    "currency": "GHS",
+    "timezones": [
+      "Africa/Accra"
+    ]
+  },
+  "KE": {
+    "name": "Kenya",
+    "currency": "KES",
+    "timezones": [
+      "Africa/Nairobi"
+    ]
+  },
+  "ZA": {
+    "name": "South Africa",
+    "currency": "ZAR",
+    "timezones": [
+      "Africa/Johannesburg"
+    ]
+  },
+  "IN": {
+    "name": "India",
+    "currency": "INR",
+    "timezones": [
+      "Asia/Kolkata"
+    ]
+  },
+  "DE": {
+    "name": "Germany",
+    "currency": "EUR",
+    "timezones": [
+      "Europe/Berlin"
+    ]
+  },
+  "FR": {
+    "name": "France",
+    "currency": "EUR",
+    "timezones": [
+      "Europe/Paris"
+    ]
+  },
+  "BR": {
+    "name": "Brazil",
+    "currency": "BRL",
+    "timezones": [
+      "America/Sao_Paulo",
+      "America/Manaus",
+      "America/Rio_Branco"
+    ]
+  },
+  "MX": {
+    "name": "Mexico",
+    "currency": "MXN",
+    "timezones": [
+      "America/Mexico_City",
+      "America/Cancun",
+      "America/Tijuana"
+    ]
+  },
+  "SG": {
+    "name": "Singapore",
+    "currency": "SGD",
+    "timezones": [
+      "Asia/Singapore"
+    ]
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "currency": "AED",
+    "timezones": [
+      "Asia/Dubai"
+    ]
+  },
+  "CH": {
+    "name": "Switzerland",
+    "currency": "CHF",
+    "timezones": [
+      "Europe/Zurich"
+    ]
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "currency": "NZD",
+    "timezones": [
+      "Pacific/Auckland"
+    ]
+  },
+  "CN": {
+    "name": "China",
+    "currency": "CNY",
+    "timezones": [
+      "Asia/Shanghai"
+    ]
+  },
+  "KR": {
+    "name": "South Korea",
+    "currency": "KRW",
+    "timezones": [
+      "Asia/Seoul"
+    ]
+  },
+  "PK": {
+    "name": "Pakistan",
+    "currency": "PKR",
+    "timezones": [
+      "Asia/Karachi"
+    ]
+  },
+  "EG": {
+    "name": "Egypt",
+    "currency": "EGP",
+    "timezones": [
+      "Africa/Cairo"
+    ]
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "currency": "SAR",
+    "timezones": [
+      "Asia/Riyadh"
+    ]
+  },
+  "IE": {
+    "name": "Ireland",
+    "currency": "EUR",
+    "timezones": [
+      "Europe/Dublin"
+    ]
+  },
+  "ES": {
+    "name": "Spain",
+    "currency": "EUR",
+    "timezones": [
+      "Europe/Madrid",
+      "Atlantic/Canary"
+    ]
+  },
+  "IT": {
+    "name": "Italy",
+    "currency": "EUR",
+    "timezones": [
+      "Europe/Rome"
+    ]
+  },
+  "NL": {
+    "name": "Netherlands",
+    "currency": "EUR",
+    "timezones": [
+      "Europe/Amsterdam"
+    ]
+  },
+  "SE": {
+    "name": "Sweden",
+    "currency": "SEK",
+    "timezones": [
+      "Europe/Stockholm"
+    ]
+  },
+  "NO": {
+    "name": "Norway",
+    "currency": "NOK",
+    "timezones": [
+      "Europe/Oslo"
+    ]
+  },
+  "DK": {
+    "name": "Denmark",
+    "currency": "DKK",
+    "timezones": [
+      "Europe/Copenhagen"
+    ]
+  },
+  "ID": {
+    "name": "Indonesia",
+    "currency": "IDR",
+    "timezones": [
+      "Asia/Jakarta",
+      "Asia/Makassar",
+      "Asia/Jayapura"
+    ]
+  },
+  "PH": {
+    "name": "Philippines",
+    "currency": "PHP",
+    "timezones": [
+      "Asia/Manila"
+    ]
+  },
+  "TH": {
+    "name": "Thailand",
+    "currency": "THB",
+    "timezones": [
+      "Asia/Bangkok"
+    ]
+  },
+  "TR": {
+    "name": "T\u00fcrkiye",
+    "currency": "TRY",
+    "timezones": [
+      "Europe/Istanbul"
+    ]
+  },
+  "UA": {
+    "name": "Ukraine",
+    "currency": "UAH",
+    "timezones": [
+      "Europe/Kyiv"
+    ]
+  },
+  "AR": {
+    "name": "Argentina",
+    "currency": "ARS",
+    "timezones": [
+      "America/Argentina/Buenos_Aires"
+    ]
+  },
+  "CL": {
+    "name": "Chile",
+    "currency": "CLP",
+    "timezones": [
+      "America/Santiago",
+      "Pacific/Easter"
+    ]
+  },
+  "CO": {
+    "name": "Colombia",
+    "currency": "COP",
+    "timezones": [
+      "America/Bogota"
+    ]
+  },
+  "PE": {
+    "name": "Peru",
+    "currency": "PEN",
+    "timezones": [
+      "America/Lima"
+    ]
+  },
+  "IL": {
+    "name": "Israel",
+    "currency": "ILS",
+    "timezones": [
+      "Asia/Jerusalem"
+    ]
+  },
+  "QA": {
+    "name": "Qatar",
+    "currency": "QAR",
+    "timezones": [
+      "Asia/Qatar"
+    ]
+  },
+  "MA": {
+    "name": "Morocco",
+    "currency": "MAD",
+    "timezones": [
+      "Africa/Casablanca"
+    ]
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "currency": "ETB",
+    "timezones": [
+      "Africa/Addis_Ababa"
+    ]
+  },
+  "UG": {
+    "name": "Uganda",
+    "currency": "UGX",
+    "timezones": [
+      "Africa/Kampala"
+    ]
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "currency": "TZS",
+    "timezones": [
+      "Africa/Dar_es_Salaam"
+    ]
+  },
+  "ZM": {
+    "name": "Zambia",
+    "currency": "ZMW",
+    "timezones": [
+      "Africa/Lusaka"
+    ]
+  },
+  "RW": {
+    "name": "Rwanda",
+    "currency": "RWF",
+    "timezones": [
+      "Africa/Kigali"
+    ]
+  }
+}

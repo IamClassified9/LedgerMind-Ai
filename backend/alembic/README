@@ -1,0 +1,2 @@
+Alembic migration scripts live here. The initial database migration will be
+created after the first application models are defined.
